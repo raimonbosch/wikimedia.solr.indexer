@@ -11,11 +11,13 @@ You can download the Wikipedia's articles from:
 
 You will need maven to compile the sources or hack the project to include the libraries manually.
 
+
 Compilation example:
 
 cd $HOME/wikimediaIndexer
 
 mvn clean install
+
 
 Execution example:
 
