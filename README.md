@@ -1,10 +1,7 @@
 Wikimedia Solr Indexer
 ======================
 
-Solr indexer example using articles from wikipedia
-
-
-This is an example to creare a Solr index with Wikipedia's documents.
+Solr indexer example using articles from wikipedia.
 
 You can download the Wikipedia's articles from:
 
