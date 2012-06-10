@@ -1,4 +1,4 @@
-Wikimedia Solr indexer
+Wikimedia Solr Indexer
 ======================
 
 Solr indexer example using articles from wikipedia
